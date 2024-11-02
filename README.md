@@ -12,17 +12,14 @@
             <img src="c:\Users\ZaidA\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\IMG-20241102-WA0002.jpg" alt="Zaid Abbad" class="profile-image"> <!-- استبدل بالرابط الصحيح للصورة -->
             <h1>Zaid Abbad</h1>
         </header>
-        
         <section class="about">
             <h2>About Me</h2>
             <p>I am a passionate learner of programming languages, dedicated to mastering the art of effective leadership and interpersonal communication. My journey in technology has equipped me with a strong foundation in coding, enabling me to tackle complex problems with innovative solutions. I believe that effective leadership is not just about directing teams but also about inspiring collaboration and fostering a positive environment. My ability to connect with people and understand diverse perspectives enhances my capacity to work in multicultural settings. I am eager to apply my skills and experiences to make a meaningful impact in any team I join.</p>
         </section>
-
         <section class="education">
             <h2>Education</h2>
             <p><strong>Diploma of Technology</strong></p>
         </section>
-
         <section class="courses">
             <h2>Courses and Workshops</h2>
             <p>I have taken the following courses, all provided by Eureka:</p>
@@ -41,7 +38,6 @@
                 <li>C++ (provided by Eureka ,Al Hussein Technology University & Crown Prince Foundation)</li>
             </ul>
         </section>
-
         <section class="skills">
             <h2>Skills</h2>
             <ul>
@@ -49,7 +45,6 @@
                 <li>Programming Languages: HTML, CSS, JavaScript, Python</li>
             </ul>
         </section>
-
         <section class="languages">
             <h2>Languages</h2>
             <ul>
@@ -57,13 +52,11 @@
                 <li>English: B1 </li>
             </ul>
         </section>
-
         <section class="volunteer">
             <h2>Volunteer Experience</h2>
             <p><strong>Volunteer with the Ministry of Youth</strong></p>
             <p>2024</p>
         </section>
-
         <footer>
             <h2>Contact Information</h2>
             <p>Email: <a href="mailto:zaidabbad42@gmail.com">zaidabbad42@gmail.com</a></p>
